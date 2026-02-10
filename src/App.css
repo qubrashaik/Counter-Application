@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(white, seagreen);
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid seagreen;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px;
+  box-sizing: border-box;
+}

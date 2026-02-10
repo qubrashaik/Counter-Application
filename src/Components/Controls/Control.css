@@ -1,0 +1,11 @@
+button {
+  margin: 4px;
+  height: 30px;
+  border-color: seagreen;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0px 1px 2px 0px;
+}
+button:active {
+  transform: scale(1.1);
+}
